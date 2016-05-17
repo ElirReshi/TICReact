@@ -1,0 +1,23 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElirReshi/PrototypeJade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElirReshi/PrototypeJade/issues"
+  },
+  "homepage": "https://github.com/ElirReshi/PrototypeJade#readme",
+  "dependencies": {
+    "gulp": "3.9.1",
+    "gulp-jade": "1.1.0",
+    "gulp-webserver": "0.9.1"
+  }
+}

@@ -1,0 +1,6 @@
+jspm
+  npm install jspm -g
+  jspm install
+
+para producción:
+  jspm bundle src/main --inject
